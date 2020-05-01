@@ -8,6 +8,7 @@ The histomap is a chronological map of empires, civilisations, and cultures. Itâ
 
 
 ## Current state
+
 ![Current state](histomap-current-state.png)
 
 
